@@ -44,7 +44,6 @@ The story is constructed one fragment at a time.
 
 For example:
 
-```text
 WHO
 ↓
 WHEN
@@ -223,3 +222,12 @@ Let humanity take over.
 Who Wrote This?!
 
 It definitely wasn't supposed to end like that.
+
+
+## License
+
+**Proprietary — All Rights Reserved**
+
+This repository is public for development, portfolio, and educational
+purposes. The source code and original creative materials are not licensed
+for commercial reuse without permission.
