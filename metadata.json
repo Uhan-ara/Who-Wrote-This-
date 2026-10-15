@@ -1,0 +1,6 @@
+{
+  "name": "Telephone Game",
+  "description": "A playful web multiplayer party game where players mutate sentences fragment by fragment and reconstruct funny stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

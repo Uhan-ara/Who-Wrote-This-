@@ -1,0 +1,17 @@
+/**
+ * Game constants and phases
+ */
+
+export const GAME_PHASES = {
+  LANDING: 'LANDING',
+  CREATE_ROOM: 'CREATE_ROOM',
+  JOIN_ROOM: 'JOIN_ROOM',
+  LOBBY: 'LOBBY',
+  SENTENCE_CONSTRUCTION: 'SENTENCE_CONSTRUCTION',
+  FINAL_SENTENCE: 'FINAL_SENTENCE',
+};
+
+export const ROOM_LIMITS = {
+  MIN_PLAYERS: 4,
+  MAX_PLAYERS: 7,
+};
